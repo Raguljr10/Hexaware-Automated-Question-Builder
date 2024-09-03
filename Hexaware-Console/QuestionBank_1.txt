@@ -1,0 +1,4 @@
+Technology: Python
+Topics: oops
+Number of Questions: 5
+Difficulty: Easy

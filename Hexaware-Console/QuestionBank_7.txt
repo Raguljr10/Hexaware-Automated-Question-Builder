@@ -1,0 +1,4 @@
+Technology: Java
+Topics: Data Structures
+Number of Questions: 10
+Difficulty: Medium
